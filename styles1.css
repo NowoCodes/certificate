@@ -4,7 +4,7 @@
 }
 
 h1.green {
-  color: rgb(75, 158, 75);
+  color: rgb(60, 124, 60);
   font-weight: 400;
 }
 
@@ -21,6 +21,6 @@ h1.green {
 }
 
 .border-pattern {
-  border: 2mm solid rgb(75, 158, 75);
+  border: 2mm solid rgb(60, 124, 60);
   background: white;
 }
